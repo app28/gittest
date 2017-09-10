@@ -1,6 +1,2 @@
-<<<<<<< HEAD
-ecofriendly mortar
-=======
-more mortar
->>>>>>> 6e2d3410ff0d9c62969ecc016502c86c4df0fae2
+more ecofriendly mortar
 brick
